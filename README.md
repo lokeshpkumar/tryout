@@ -1,4 +1,4 @@
 tryout
 ======
 
-sample app
+Sample JSF application - login
